@@ -1,4 +1,5 @@
 # AnatomicalPriorConsistency-Airway
  Airway segmentation for Bronchoscopy
 
-![image-20240812201140112](C:\Users\JIA\AppData\Roaming\Typora\typora-user-images\image-20240812201140112.png)
+![image](https://github.com/user-attachments/assets/480ea589-118b-4e28-ac79-05037c60b46b)
+
