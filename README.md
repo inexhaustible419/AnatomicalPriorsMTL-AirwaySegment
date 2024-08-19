@@ -19,15 +19,21 @@ The 3D Pulmonary Airway Segmentation Framework is composed of two main component
 
 **Overview of Anatomical Prior-Based Multi-Task Learning.**  Follow the arrow to understand the entire process steps and the characteristics of the method.
 
+## Requirement
+
+
+## DATA
+
+* Download From:
+  * [CTAN](https://www.ctan.org/pkg/thuthesis)
+  * [GitHub Releases](https://github.com/tuna/thuthesis/releases)
 
 
 
 
 
 
-
-
-
+## Results Visualization
 
 **Visualization of connectivity enhancement of Backbone network segmentation results by our framework.** Red: The red grid represents the connectivity enhancement results. Yellow: Local breaks in Backbone network segmentation results.
 <div align="center">
