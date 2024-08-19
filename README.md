@@ -9,8 +9,6 @@ https://github.com/user-attachments/assets/925a49b5-bc13-4c4d-a586-a649256337f3
 
 </div>
 
-<a href="https://github.com/user-attachments/assets/925a49b5-bc13-4c4d-a586-a649256337f3"><img src="https://github.com/user-attachments/assets/a12fe472-ccaf-4f7a-8fa9-174f7222c494" alt="Video Thumbnail" width=70% /></a>
-
 
 # A Connectivity-Enhanced Multi-Task Learning based on Anatomical Priors for 3D Class-Balanced Pulmonary Airway Segmentation
 [![Framework: Python](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
