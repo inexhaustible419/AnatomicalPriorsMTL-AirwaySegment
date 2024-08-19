@@ -21,6 +21,26 @@ The 3D Pulmonary Airway Segmentation Framework is composed of two main component
 
 ## Requirements
 
+```shell
+edt==2.4.0
+h5py==3.9.0
+matplotlib==3.7.5
+nibabel==5.2.1
+numpy==1.20.0
+opencv_python==4.9.0.80
+pandas==1.4.4
+Pillow==10.4.0
+plotly==5.19.0
+pydicom==2.4.4
+scikit_image==0.19.3
+scipy==1.14.0
+SimpleITK==2.3.1
+SimpleITK==2.4.0
+torch==2.2.1
+torchio==0.19.6
+torchvision==0.17.1
+tqdm==4.66.2
+```
 
 ## DATA
 
