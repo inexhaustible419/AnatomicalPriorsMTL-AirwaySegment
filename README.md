@@ -1,3 +1,8 @@
+<div align="center">
+AIRWAY SEGMENT
+</div>
+
+
 # A Connectivity-Enhanced Multi-Task Learning based on Anatomical Priors for 3D Class-Balanced Pulmonary Airway Segmentation
 [![Framework: Python](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
