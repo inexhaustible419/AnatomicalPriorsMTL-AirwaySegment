@@ -19,7 +19,7 @@ The 3D Pulmonary Airway Segmentation Framework is composed of two main component
 
 **Overview of Anatomical Prior-Based Multi-Task Learning.**  Follow the arrow to understand the entire process steps and the characteristics of the method.
 
-## Requirement
+## Requirements
 
 
 ## DATA
