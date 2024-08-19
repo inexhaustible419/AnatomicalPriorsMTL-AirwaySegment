@@ -6,3 +6,4 @@ A 3D airway segmentation multi task framework, aimed at enhancing the connectivi
 ![图1](https://github.com/user-attachments/assets/1446ef87-d6e7-4368-8410-3331f44faef8)
 
 
+![结果1](https://github.com/user-attachments/assets/1df07ae3-eb49-49cb-92cf-df6b445603fc)
