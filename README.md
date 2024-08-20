@@ -71,3 +71,8 @@ tqdm==4.66.2
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1df07ae3-eb49-49cb-92cf-df6b445603fc" width=70%>
 </div>
+
+**From a 2D perspective of CT, Visualization of connectivity enhancement of Backbone network segmentation results by our framework.** 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bfb459ed-44b0-49b1-9c7f-f42e5e758dec" width=80%>
+</div>
