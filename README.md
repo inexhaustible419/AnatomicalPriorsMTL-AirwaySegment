@@ -78,3 +78,5 @@ tqdm==4.66.2
   * [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/)
   * [LABEL via ITK-SNAP](http://www.pami.sjtu.edu.cn/En/Home)
 
+## FUTURE WORK
+Integrate into [3D SLICER](https://github.com/Slicer/Slicer) software in the form of plugins
