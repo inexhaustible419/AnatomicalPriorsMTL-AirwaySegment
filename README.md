@@ -74,7 +74,7 @@ tqdm==4.66.2
 ## DATA
 
 * Download From:
-  * [EXACT’09](https://www.ctan.org/pkg/thuthesis)
+  * [EXACT’09](http://image.diku.dk/exact/index.php?)
   * [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/)
-  * [LABEL](https://www.cancerimagingarchive.net/collection/lidc-idri/)
+  * [LABEL via ITK-SNAP](http://www.pami.sjtu.edu.cn/En/Home)
 
