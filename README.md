@@ -71,12 +71,12 @@ torchvision==0.17.1
 tqdm==4.66.2
 ```
 
-## DATA
+## Data
 
 * Download From:
   * [EXACT’09](http://image.diku.dk/exact/index.php?)
   * [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/)
   * [LABEL via ITK-SNAP](http://www.pami.sjtu.edu.cn/En/Home)
 
-## FUTURE WORK
+## Future work
 Integrate into [3D SLICER](https://github.com/Slicer/Slicer) software in the form of plugins
