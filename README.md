@@ -74,6 +74,7 @@ tqdm==4.66.2
 ## DATA
 
 * Download From:
-  * [CTAN](https://www.ctan.org/pkg/thuthesis)
-  * [GitHub Releases](https://github.com/tuna/thuthesis/releases)
+  * [EXACT’09](https://www.ctan.org/pkg/thuthesis)
+  * [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/)
+  * [LABEL](https://www.cancerimagingarchive.net/collection/lidc-idri/)
 
