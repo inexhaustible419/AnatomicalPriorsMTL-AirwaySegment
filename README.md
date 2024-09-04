@@ -19,16 +19,15 @@ A 3D airway segmentation multi task framework, aimed at enhancing the connectivi
 
 ## Results Visualization
 
-**Visualization of connectivity enhancement of Backbone network segmentation results by our framework.** Red: The red grid represents the connectivity enhancement results. Yellow: Local breaks in Backbone network segmentation results.
-<div align="center">
-<img src="https://github.com/user-attachments/assets/1df07ae3-eb49-49cb-92cf-df6b445603fc" width=60%>
-</div>
-
 **From a 2D perspective of CT, Visualization of connectivity enhancement of Backbone network segmentation results by our framework.** 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/bfb459ed-44b0-49b1-9c7f-f42e5e758dec" width=85%>
 </div>
 
+**Visualization of connectivity enhancement of Backbone network segmentation results by our framework.** Red: The red grid represents the connectivity enhancement results. Yellow: Local breaks in Backbone network segmentation results.
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1df07ae3-eb49-49cb-92cf-df6b445603fc" width=60%>
+</div>
 
 
 
